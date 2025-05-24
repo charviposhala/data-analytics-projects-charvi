@@ -1,0 +1,11 @@
+walmart-sales-dashboard-mendix/
+│
+├── README.md
+├── screenshots/
+│   ├── dashboard-main.png
+│   └── bar-chart-texas.png
+├── docs/
+│   └── domain-model.png
+├── exports/
+│   └── mendix-app-export.mpk  # Export your Mendix project as an MPK file
+└── LICENSE
